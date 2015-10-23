@@ -1,3 +1,3 @@
 # logixware.com
-Design and maintenance of logixware.com website.
+Design, implementation, and maintenance of logixware.com website.
 
